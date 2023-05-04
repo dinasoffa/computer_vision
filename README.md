@@ -1,6 +1,6 @@
 # computer_vision
 
-##State Farm Distracted Driver Detection
+## State Farm Distracted Driver Detection
 
 ccording to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
 
